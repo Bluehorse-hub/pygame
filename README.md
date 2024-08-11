@@ -4,7 +4,7 @@ pythonのライブラリであるpygameを用いて制作したFF風RPG
 # サンプル画面
 |タイトル画面|戦闘画面|フィールド画面|
 |:-:|:-:|:-:|
-|![タイトル](../mygame/for_README/title.png)|![戦闘](../mygame/for_README/battle.png)|![フィールド](../mygame/for_README/field.png)|
+|![タイトル](for_README/title.png)|![戦闘](for_README/battle.png)|![フィールド](for_README/field.png)|
 
 # 使用言語・ライブラリ
 - Python 3.12.3
